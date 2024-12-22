@@ -1,0 +1,1272 @@
+[
+  {
+    "ID": 1,
+    "NAME": "Virat_Kohli",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 9,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Virat_Kohli.png"
+  },
+  {
+    "ID": 2,
+    "NAME": "Rohit_Sharma",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Rohit_Sharma.png"
+  },
+  {
+    "ID": 3,
+    "NAME": "Ruturaj_Gaikwad",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7.5,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Ruturaj_Gaikwad.png"
+  },
+  {
+    "ID": 4,
+    "NAME": "Shubman_Gill",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7.5,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Shubman_Gill.png"
+  },
+  {
+    "ID": 5,
+    "NAME": "Rinku_Singh",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7.5,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Rinku_Singh.png"
+  },
+  {
+    "ID": 6,
+    "NAME": "SKY",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 8,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "SKY.png"
+  },
+  {
+    "ID": 7,
+    "NAME": "Tilak_Varma",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7.5,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Tilak_Varma.png"
+  },
+  {
+    "ID": 8,
+    "NAME": "David_Miller",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Foreign",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "David_Miller.png"
+  },
+  {
+    "ID": 9,
+    "NAME": "Yashasvi_Jaiswal",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 8,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Yashasvi_Jaiswal.png"
+  },
+  {
+    "ID": 10,
+    "NAME": "Faf_Duplesis",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7.5,
+    "COUNTRY": "Foreign",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Faf_Duplesis.png"
+  },
+  {
+    "ID": 11,
+    "NAME": "Travis_Head",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 8,
+    "COUNTRY": "Foreign",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Travis_Head.png"
+  },
+  {
+    "ID": 12,
+    "NAME": "Devon_Conway",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Foreign",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Devon_Conway.png"
+  },
+  {
+    "ID": 13,
+    "NAME": "Bhuvneshwar_Kumar",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Bhuvneshwar_Kumar.png"
+  },
+  {
+    "ID": 14,
+    "NAME": "Mohammad_Shami",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Mohammad_Shami.png"
+  },
+  {
+    "ID": 15,
+    "NAME": "Thangarasu_Natarajan",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 8,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Thangarasu_Natarajan.png"
+  },
+  {
+    "ID": 16,
+    "NAME": "Kuldeep_Yadav",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 8,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Kuldeep_Yadav.png"
+  },
+  {
+    "ID": 17,
+    "NAME": "Varun_Chakravarthy",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 8,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Varun_Chakravarthy.png"
+  },
+  {
+    "ID": 18,
+    "NAME": "Harshal_Patel",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 7.5,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Harshal_Patel.png"
+  },
+  {
+    "ID": 19,
+    "NAME": "Deepak_Chahar",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Deepak_Chahar.png"
+  },
+  {
+    "ID": 20,
+    "NAME": "Jasprit_Bumrah",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 9,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Jasprit_Bumrah.png"
+  },
+  {
+    "ID": 21,
+    "NAME": "Arshdeep_Singh",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 8.5,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Arshdeep_Singh.png"
+  },
+  {
+    "ID": 22,
+    "NAME": "Yuzi_ Chahal",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 8.5,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Yuzi_ Chahal.png"
+  },
+  {
+    "ID": 23,
+    "NAME": "Matheesha_Pathirana",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 8.5,
+    "COUNTRY": "Foreign",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Matheesha_Pathirana.png"
+  },
+  {
+    "ID": 24,
+    "NAME": "Trent_Boult",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 8.5,
+    "COUNTRY": "Foreign",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Trent_Boult.png"
+  },
+  {
+    "ID": 25,
+    "NAME": "Ravindra_Jadeja",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 8,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Ravindra_Jadeja.png"
+  },
+  {
+    "ID": 26,
+    "NAME": "Shivam_Dube",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 8,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Shivam_Dube.png"
+  },
+  {
+    "ID": 27,
+    "NAME": "Axar_Patel",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 8,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Axar_Patel.png"
+  },
+  {
+    "ID": 28,
+    "NAME": "Hardik_Pandya",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 8,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Hardik_Pandya.png"
+  },
+  {
+    "ID": 29,
+    "NAME": "Pat_Cummiins",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 8,
+    "COUNTRY": "Foreign",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Pat_Cummiins.png"
+  },
+  {
+    "ID": 30,
+    "NAME": "Rashid_Khan",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 9,
+    "COUNTRY": "Foreign",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Rashid_Khan.png"
+  },
+  {
+    "ID": 31,
+    "NAME": "Andre_Russel",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 9,
+    "COUNTRY": "Foreign",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Andre_Russel.png"
+  },
+  {
+    "ID": 32,
+    "NAME": "Sunil_Narine",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 9,
+    "COUNTRY": "Foreign",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Sunil_Narine.png"
+  },
+  {
+    "ID": 33,
+    "NAME": "MS_Dhoni",
+    "TYPE": "Wicket Keeper",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "MS_Dhoni.png"
+  },
+  {
+    "ID": 34,
+    "NAME": "Sanju_Samson",
+    "TYPE": "Wicket Keeper",
+    "CREDIT POINTS": 8.5,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Sanju_Samson.png"
+  },
+  {
+    "ID": 35,
+    "NAME": "Kl_Rahul",
+    "TYPE": "Wicket Keeper",
+    "CREDIT POINTS": 8,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Kl_Rahul.png"
+  },
+  {
+    "ID": 36,
+    "NAME": "Rishab_Pant",
+    "TYPE": "Wicket Keeper",
+    "CREDIT POINTS": 8,
+    "COUNTRY": "Indian",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Rishab_Pant.png"
+  },
+  {
+    "ID": 37,
+    "NAME": "Phil_Salt",
+    "TYPE": "Wicket Keeper",
+    "CREDIT POINTS": 8,
+    "COUNTRY": "Foreign",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Phil_Salt.png"
+  },
+  {
+    "ID": 38,
+    "NAME": "Heinrich_Klaseen",
+    "TYPE": "Wicket Keeper",
+    "CREDIT POINTS": 9,
+    "COUNTRY": "Foreign",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Heinrich_Klaseen.png"
+  },
+  {
+    "ID": 39,
+    "NAME": "Jos_Butler",
+    "TYPE": "Wicket Keeper",
+    "CREDIT POINTS": 8.5,
+    "COUNTRY": "Foreign",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Jos_Butler.png"
+  },
+  {
+    "ID": 40,
+    "NAME": "Nicholas_Pooran",
+    "TYPE": "Wicket Keeper",
+    "CREDIT POINTS": 9,
+    "COUNTRY": "Foreign",
+    "RATING": "high",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Nicholas_Pooran.png"
+  },
+  {
+    "ID": 41,
+    "NAME": "Rahul_Tripathi",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Rahul_Tripathi.png"
+  },
+  {
+    "ID": 42,
+    "NAME": "Deepak_Hooda",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Deepak_Hooda.png"
+  },
+  {
+    "ID": 43,
+    "NAME": "Rachin_Ravindra",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Rachin_Ravindra.png"
+  },
+  {
+    "ID": 44,
+    "NAME": "Jakefrazer_Mcgurk",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Jakefrazer_Mcgurk.png"
+  },
+  {
+    "ID": 45,
+    "NAME": "Abhishek_Porel",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Abhishek_Porel.png"
+  },
+  {
+    "ID": 46,
+    "NAME": "Tristan_Stubbs",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Tristan_Stubbs.png"
+  },
+  {
+    "ID": 47,
+    "NAME": "Ashutosh_Sharma",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Ashutosh_Sharma.png"
+  },
+  {
+    "ID": 48,
+    "NAME": "Mahipa_Lomror",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Mahipa_Lomror.png"
+  },
+  {
+    "ID": 49,
+    "NAME": "Sai_Sudharshan",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Sai_Sudharshan.png"
+  },
+  {
+    "ID": 50,
+    "NAME": "Sharukh_Khan",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Sharukh_Khan.png"
+  },
+  {
+    "ID": 51,
+    "NAME": "Ajinkya_Rahane",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Ajinkya_Rahane.png"
+  },
+  {
+    "ID": 52,
+    "NAME": "Venkatesh_ Iyer",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Venkatesh_ Iyer.png"
+  },
+  {
+    "ID": 53,
+    "NAME": "Quinton_Dekock",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Quinton_Dekock.png"
+  },
+  {
+    "ID": 54,
+    "NAME": "Rahmanullah_ Gurbaz",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Rahmanullah_ Gurbaz.png"
+  },
+  {
+    "ID": 55,
+    "NAME": "Rovman_Powell",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 5,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Rovman_Powell.png"
+  },
+  {
+    "ID": 56,
+    "NAME": "Abdul_Samad",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Abdul_Samad.png"
+  },
+  {
+    "ID": 57,
+    "NAME": "Aiden_Markram",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Aiden_Markram.png"
+  },
+  {
+    "ID": 58,
+    "NAME": "Ayush_Badoni",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Ayush_Badoni.png"
+  },
+  {
+    "ID": 69,
+    "NAME": "Will_Jacks",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Will_Jacks.png"
+  },
+  {
+    "ID": 60,
+    "NAME": "Nehal_Wadhera",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Nehal_Wadhera.png"
+  },
+  {
+    "ID": 61,
+    "NAME": "Prabhsimran_Singh",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Prabhsimran_Singh.png"
+  },
+  {
+    "ID": 62,
+    "NAME": "Shasank_Singh",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Shasank_Singh.png"
+  },
+  {
+    "ID": 63,
+    "NAME": "Shimron_Hetmyer",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Shimron_Hetmyer.png"
+  },
+  {
+    "ID": 64,
+    "NAME": "Dhruv_Jurel",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Dhruv_Jurel.png"
+  },
+  {
+    "ID": 65,
+    "NAME": "Riyan_Parag",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Riyan_Parag.png"
+  },
+  {
+    "ID": 66,
+    "NAME": "Rajat_Patidhar",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 7.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Rajat_Patidhar.png"
+  },
+  {
+    "ID": 67,
+    "NAME": "Devdutt_Padikal",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Devdutt_Padikal.png"
+  },
+  {
+    "ID": 68,
+    "NAME": "Liam_Livingstone",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Liam_Livingstone.png"
+  },
+  {
+    "ID": 69,
+    "NAME": "Tim_David",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Tim_David.png"
+  },
+  {
+    "ID": 70,
+    "NAME": "Ishan_Kishan",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Ishan_Kishan.png"
+  },
+  {
+    "ID": 71,
+    "NAME": "Vijay_ Shankar",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 4,
+    "COUNTRY": "Indian",
+    "RATING": "low",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Vijay_ Shankar.png"
+  },
+  {
+    "ID": 72,
+    "NAME": "Rahul_Tewatia",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 5,
+    "COUNTRY": "Indian",
+    "RATING": "low",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Rahul_Tewatia.png"
+  },
+  {
+    "ID": 73,
+    "NAME": "Angkrish_ Raghuvanshi",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 4.5,
+    "COUNTRY": "Indian",
+    "RATING": "low",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Angkrish_ Raghuvanshi.png"
+  },
+  {
+    "ID": 74,
+    "NAME": "Ramandeep_Singh",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 5,
+    "COUNTRY": "Indian",
+    "RATING": "low",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Ramandeep_Singh.png"
+  },
+  {
+    "ID": 75,
+    "NAME": "Nitish_ Rana",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 5.5,
+    "COUNTRY": "Indian",
+    "RATING": "low",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Nitish_ Rana.png"
+  },
+  {
+    "ID": 76,
+    "NAME": "Naman_ Dhir",
+    "TYPE": "batsman",
+    "CREDIT POINTS": 5.5,
+    "COUNTRY": "Indian",
+    "RATING": "low",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Naman_ Dhir.png"
+  },
+  {
+    "ID": 77,
+    "NAME": "Khaleel_Ahmed",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Khaleel_Ahmed.png"
+  },
+  {
+    "ID": 78,
+    "NAME": "Noor_Ahmed",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Noor_Ahmed.png"
+  },
+  {
+    "ID": 79,
+    "NAME": "Nathan_Ellis",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Nathan_Ellis.png"
+  },
+  {
+    "ID": 80,
+    "NAME": "Shreyas_Gopal",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Shreyas_Gopal.png"
+  },
+  {
+    "ID": 81,
+    "NAME": "Mitchell_Starc",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Mitchell_Starc.png"
+  },
+  {
+    "ID": 82,
+    "NAME": "Mohit_Sharma",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Mohit_Sharma.png"
+  },
+  {
+    "ID": 83,
+    "NAME": "Mukesh_Kumar",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Mukesh_Kumar.png"
+  },
+  {
+    "ID": 84,
+    "NAME": "Kagiso_Rabada",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Kagiso_Rabada.png"
+  },
+  {
+    "ID": 85,
+    "NAME": "Mohammad_Siraj",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Mohammad_Siraj.png"
+  },
+  {
+    "ID": 86,
+    "NAME": "Gerald_Coetzee",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Gerald_Coetzee.png"
+  },
+  {
+    "ID": 87,
+    "NAME": "Ishant_ Sharma",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Ishant_ Sharma.png"
+  },
+  {
+    "ID": 88,
+    "NAME": "Anrich_Nortje",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Anrich_Nortje.png"
+  },
+  {
+    "ID": 89,
+    "NAME": "Mayank_Markande",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Mayank_Markande.png"
+  },
+  {
+    "ID": 90,
+    "NAME": "Harshit_Rana",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Harshit_Rana.png"
+  },
+  {
+    "ID": 91,
+    "NAME": "Avesh_Khan",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Avesh_Khan.png"
+  },
+  {
+    "ID": 92,
+    "NAME": "Shabaz_Ahmed",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Shabaz_Ahmed.png"
+  },
+  {
+    "ID": 93,
+    "NAME": "Mayank_Yadav",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Mayank_Yadav.png"
+  },
+  {
+    "ID": 94,
+    "NAME": "Mohsin_Khan",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Mohsin_Khan .png"
+  },
+  {
+    "ID": 95,
+    "NAME": "Ravi_Bishnoi",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 7.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Ravi_Bishnoi.png"
+  },
+  {
+    "ID": 96,
+    "NAME": "Reece_Topley",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Reece_Topley.png"
+  },
+  {
+    "ID": 97,
+    "NAME": "Harpreet_Brar",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Harpreet_Brar.png"
+  },
+  {
+    "ID": 98,
+    "NAME": "Marco_Jansen",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Marco_Jansen.png"
+  },
+  {
+    "ID": 99,
+    "NAME": "Yash_Thakur",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Yash_Thakur.png"
+  },
+  {
+    "ID": 100,
+    "NAME": "Lockie_Ferguson",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 5,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Lockie_Ferguson.png"
+  },
+  {
+    "ID": 101,
+    "NAME": "Maheesh_Theekshana",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 5.5,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Maheesh_Theekshana.png"
+  },
+  {
+    "ID": 102,
+    "NAME": "Akash_Madhwal",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Akash_Madhwal.png"
+  },
+  {
+    "ID": 103,
+    "NAME": "Tushar_Deshpande",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Tushar_Deshpande.png"
+  },
+  {
+    "ID": 104,
+    "NAME": "Fazal_Farooqi",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Fazal_Farooqi.png"
+  },
+  {
+    "ID": 105,
+    "NAME": "Sandeep_Sharma",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Sandeep_Sharma.png"
+  },
+  {
+    "ID": 106,
+    "NAME": "Nuwan_Thushara",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 5,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Nuwan_Thushara.png"
+  },
+  {
+    "ID": 107,
+    "NAME": "Yash_Dayal",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Yash_Dayal.png"
+  },
+  {
+    "ID": 108,
+    "NAME": "Rahul_Chahar",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Rahul_Chahar.png"
+  },
+  {
+    "ID": 109,
+    "NAME": "Jaydev_Unadket",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Jaydev_Unadket.png"
+  },
+  {
+    "ID": 110,
+    "NAME": "Suyash_Sharma",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 5.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Suyash_Sharma.png"
+  },
+  {
+    "ID": 111,
+    "NAME": "Anshul_Kamboj",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 5.5,
+    "COUNTRY": "Indian",
+    "RATING": "low",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Anshul_Kamboj.png"
+  },
+  {
+    "ID": 112,
+    "NAME": "Sai_Kishore",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Indian",
+    "RATING": "low",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Sai_Kishore.png"
+  },
+  {
+    "ID": 113,
+    "NAME": "Vaibhav_Arora",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Indian",
+    "RATING": "low",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Vaibhav_Arora.png"
+  },
+  {
+    "ID": 114,
+    "NAME": "Karn_Sharma",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 5.5,
+    "COUNTRY": "Indian",
+    "RATING": "low",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Karn_Sharma.png"
+  },
+  {
+    "ID": 115,
+    "NAME": "Vysakh_Vijaykumar",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 5,
+    "COUNTRY": "Indian",
+    "RATING": "low",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Vysakh_Vijaykumar.png"
+  },
+  {
+    "ID": 116,
+    "NAME": "Rasikh_Dar",
+    "TYPE": "bowler",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Indian",
+    "RATING": "low",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Rasikh_Dar.png"
+  },
+  {
+    "ID": 117,
+    "NAME": "Ravichandran_Ashwin",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Ravichandran_Ashwin.png"
+  },
+  {
+    "ID": 118,
+    "NAME": "Sam_Curran",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 7,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Sam_Curran.png"
+  },
+  {
+    "ID": 119,
+    "NAME": "Washignton_Sundar",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Washignton_Sundar.png"
+  },
+  {
+    "ID": 120,
+    "NAME": "Moeen_Ali",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Moeen_Ali.png"
+  },
+  {
+    "ID": 121,
+    "NAME": "Mitchell_Marsh",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Mitchell_Marsh.png"
+  },
+  {
+    "ID": 122,
+    "NAME": "Mitchell_Santner",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Mitchell_Santner.png"
+  },
+  {
+    "ID": 123,
+    "NAME": "Marcus_Stoinis",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Marcus_Stoinis.png"
+  },
+  {
+    "ID": 124,
+    "NAME": "Glenn_Maxwell",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Glenn_Maxwell.png"
+  },
+  {
+    "ID": 125,
+    "NAME": "Ashmatullah_Omarzai",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 6,
+    "COUNTRY": "Foreign",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Ashmatullah_Omarzai.png"
+  },
+  {
+    "ID": 126,
+    "NAME": "NK_Reddy",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 6.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "NK_Reddy.png"
+  },
+  {
+    "ID": 127,
+    "NAME": "Abishek_Sharma",
+    "TYPE": "All-Rounder",
+    "CREDIT POINTS": 7.5,
+    "COUNTRY": "Indian",
+    "RATING": "Mid",
+    "BASE PRICE": "2 cr",
+    "IMAGE NAME": "Abishek_Sharma.png"
+  }
+]
